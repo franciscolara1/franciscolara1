@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, mi nombre es Francisco Lara, tengo 25 años, soy Ingeniero en Informática , enfocado en el desarrollo Web y de aplicaciones.<br><br>Mis lenguajes de programación preferidos son HTML,CSS ,JAVASCRIPT,PHP, IONIC ANGULAR, Bootstrap,PYTHON, MYSQL y NOSQL ,además se usar GitHub . También poseo conocimientos de Machine Learning y deep Learning,<br><br>Principalmente me encuentro buscando una práctica profesional.
+Hola, mi nombre es Francisco Lara, tengo 26 años, soy Ingeniero en Informática , enfocado en el desarrollo Web y de aplicaciones.<br><br>Mis lenguajes de programación preferidos son HTML,CSS ,JAVASCRIPT,PHP, IONIC ANGULAR, Bootstrap,PYTHON, MYSQL y NOSQL ,además se usar GitHub . También poseo conocimientos de Machine Learning y deep Learning,<br><br>Principalmente me encuentro buscando una práctica profesional.
 
 
 ## 🌐 Socials:
