@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hola, mi nombre es Francisco Lara, tengo 26 años, soy Ingeniero en Informática , enfocado en el desarrollo Web y de aplicaciones.<br><br>Mis lenguajes de programación preferidos son HTML,CSS ,JAVASCRIPT,PHP, IONIC ANGULAR, Bootstrap,PYTHON, MYSQL y NOSQL ,además se usar GitHub<br><br>
+¡Hola! Soy Francisco Lara, Ingeniero en Informática con 27 años de edad, especializado en desarrollo web, aplicaciones y administración de bases de datos.
+
+Cuento con más de un año de experiencia en el sector, trabajando con tecnologías como HTML, CSS, JavaScript, PHP (Laravel), Ionic, Angular, Bootstrap, Python, MySQL y NoSQL. Además, tengo experiencia utilizando herramientas de control de versiones como GitHub, y sistemas operativos como Linux. También he trabajado con servicios en la nube de Amazon Web Services (AWS).
+
+Mis conocimientos incluyen la creación y consumo de APIs REST, lo que me permite integrar servicios y desarrollar soluciones escalables y eficientes.
 
 
 ## 🌐 Socials:
